@@ -1,4 +1,4 @@
-<h1> Job App for Employer and Employee </h1>
+ <h1> Job App for Employer and Employee </h1>
 A web-based application designed to help employers and employees connect with each other. The app allows employers to create a profile, post job listings, and receive inquiries from potential employees. Employees can create their own profiles, view job postings, and make inquiries to employers.
 
 Features
